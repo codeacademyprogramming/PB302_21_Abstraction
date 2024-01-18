@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\elchin\Desktop\CodeLessons\21. 18-01-2024\18012024\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
